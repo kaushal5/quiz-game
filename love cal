@@ -124,7 +124,7 @@ getch();
 
 
 
-opration_girl()
+operation_girl()
 	     {   int len1,len2,n=1;
 		 char s1[20],s2[20];
 
